@@ -885,7 +885,7 @@
   parent: PosterBase
   id: PosterShibaEnlist
   name: "Enlistment Shiba"
-  description: "A poster displaying a dog power armor with the words 'enlist' written in bold letters, 'in the Shiba Security forces' it says in smaller text"
+  description: "Enlist in the Shiba Security Forces today!"
   components:
   - type: Sprite
     state: shibaenlist
