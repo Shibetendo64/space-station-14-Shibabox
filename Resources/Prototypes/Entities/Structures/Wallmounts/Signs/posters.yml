@@ -872,6 +872,24 @@
   - type: Sprite
     state: poster38_legit
 
+- type: entity
+  parent: PosterBase
+  id: PosterShibaHelp
+  name: "Construction Shiba"
+  description: "A poster displaying a dog in a box wearing a hard hat with the text 'HELP', what do you need help with silly dog?"
+  components:
+  - type: Sprite
+    state: helpshiba
+
+- type: entity
+  parent: PosterBase
+  id: PosterShibaEnlist
+  name: "Enlistment Shiba"
+  description: "A poster displaying a dog power armor with the words 'enlist' written in bold letters, 'in the Shiba Security forces' it says in smaller text"
+  components:
+  - type: Sprite
+    state: shibaenlist
+
 #maps
 
 - type: entity
